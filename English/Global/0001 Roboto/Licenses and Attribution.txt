@@ -1,0 +1,19 @@
+Licenses and Attribution
+
+Name of work:
+
+Roboto
+
+Creator of the work:
+
+Google - Christian Robertson, et al
+
+License for the work:
+
+Apache License 2.0
+
+Link to where you downloaded the work on the Internet:
+
+http://www.google.com/fonts
+http://www.github.com/google/fonts
+http://www.github.com/google/roboto

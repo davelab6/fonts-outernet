@@ -1,0 +1,119 @@
+About this bin
+=========================
+
+This bin was compiled by Dave Crossland. 
+
+I believe it is essential that when we use digital tools, our freedom
+to use, understand, modify and share these tools is respected.
+Otherwise, when the tool does not work in the way that we need, we
+will be unable to fix it.  Typeface designs are really tools, and
+therefore these font files ought to be licensed in a way that respects
+your freedom.
+
+The Roboto fonts are licensed this way, under the Apache license (in
+LICENSE.txt)
+
+You are welcome to extend them to meet your needs, such as to add the
+glyphs missing from your own writing systems.  If you do so, rename
+the fonts to set apart your version from the originals.  To
+participate in the development of the originals, visit
+http://www.github.com/google/roboto
+
+To contact me, email dave@lab6.com or tweet @davelab6 or
+add me on http://www.facebook.com/davelab6
+
+What is in this bin?
+=========================
+
+This bin contains the Roboto font families. 
+
+Roboto has a dual nature. It has a mechanical skeleton and the forms
+are largely geometric. At the same time, the font features friendly
+and open curves. While some grotesks distort their letterforms to
+force a rigid rhythm, Roboto doesn’t compromise, allowing letters to
+be settled into their natural width. This makes for a more natural
+reading rhythm more commonly found in humanist and serif types.
+
+There are 4 families, the normal family in regular and condensed
+widths, a monospace variation, and the Roboto Slab family.
+
+To use the fonts in webpages, Google Fonts is fast, easy and
+free. Learn more at http://www.google.com/fonts
+
+
+A Note on Roboto Mono
+---------------------
+
+Roboto Mono is a monospaced addition to the Roboto type family.  Like
+the other members of the Roboto family, the fonts are optimized for
+readability on screens across a wide variety of devices and reading
+environments.  While the monospaced version is related to its variable
+width cousin, it doesn't hesitate to change forms to better fit the
+constraints of a monospaced environment.  
+
+For example, narrow glyphs like 'I', 'l' and 'i' have added serifs for
+more even texture while wider glyphs are adjusted for weight.  Curved
+caps like 'C' and 'O' take on the straighter sides from Roboto
+Condensed.
+
+Special consideration is given to glyphs important for reading and
+writing software source code.  Letters with similar shapes are easy to
+tell apart.  Digit '1', lowercase 'l' and capital 'I' are easily
+differentiated as are zero and the letter 'O'.
+
+Punctuation important for code has also been considered.  For example,
+the curly braces '{ }' have exaggerated points to clearly
+differentiate them from parenthesis '( )' and braces '[ ]'.  Periods
+and commas are also exaggerated to identify them more quickly.  The
+scale and weight of symbols commonly used as operators have also been
+optimized.
+
+
+Table of Contents
+=========================
+
+4 directories, 32 font files
+
+.
+├── Bin Description.txt
+├── Licenses and Attribution.txt
+├── roboto
+│   ├── LICENSE.txt
+│   ├── Roboto-Black.ttf
+│   ├── Roboto-BlackItalic.ttf
+│   ├── Roboto-Bold.ttf
+│   ├── Roboto-BoldItalic.ttf
+│   ├── Roboto-Italic.ttf
+│   ├── Roboto-Light.ttf
+│   ├── Roboto-LightItalic.ttf
+│   ├── Roboto-Medium.ttf
+│   ├── Roboto-MediumItalic.ttf
+│   ├── Roboto-Regular.ttf
+│   ├── Roboto-Thin.ttf
+│   └── Roboto-ThinItalic.ttf
+├── robotocondensed
+│   ├── LICENSE.txt
+│   ├── RobotoCondensed-Bold.ttf
+│   ├── RobotoCondensed-BoldItalic.ttf
+│   ├── RobotoCondensed-Italic.ttf
+│   ├── RobotoCondensed-Light.ttf
+│   ├── RobotoCondensed-LightItalic.ttf
+│   └── RobotoCondensed-Regular.ttf
+├── robotomono
+│   ├── LICENSE.txt
+│   ├── RobotoMono-Bold.ttf
+│   ├── RobotoMono-BoldItalic.ttf
+│   ├── RobotoMono-Italic.ttf
+│   ├── RobotoMono-Light.ttf
+│   ├── RobotoMono-LightItalic.ttf
+│   ├── RobotoMono-Medium.ttf
+│   ├── RobotoMono-MediumItalic.ttf
+│   ├── RobotoMono-Regular.ttf
+│   ├── RobotoMono-Thin.ttf
+│   └── RobotoMono-ThinItalic.ttf
+└── robotoslab
+    ├── LICENSE.txt
+    ├── RobotoSlab-Bold.ttf
+    ├── RobotoSlab-Light.ttf
+    ├── RobotoSlab-Regular.ttf
+    └── RobotoSlab-Thin.ttf
